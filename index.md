@@ -39,6 +39,7 @@
 * Active promoter of Interaction Design and Design thinking
 
 **FanXin | Cofounder** 2012.03 – 2014.12
+
 *Product Director*
 * Coordinated business, design, marketing and develop teams
 * Launched 70+ cooperation projects with local TV station and global TV network
@@ -74,11 +75,14 @@
 ## Education
 
 **Center for Creative Leadership**
-*Leadership Development Program (LDP)*
+
+123
 
 **Yuan-Ze University, Information Communication**
-*MI in Human Computer Interaction & Digital Media Design*
+
+2
 
 **Fu-Jen Catholic University, Information Management**
-*B.B.A. in Information Management*
+
+1
 
