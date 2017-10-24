@@ -26,7 +26,7 @@
 * Supervised retail banking experience strategy for private bank
 * Supervised mobile platform design for hair beauty brand
 
-**BitsXBites / Yimishiji.com | Product Lead** 2015.01-2015.08
+**BitsXBites / Yimishiji.com | Product Lead** 2015.01 - 2015.08
 * Planned Yimishiji.com from 0 to 1 with founding team members.
 * Oversaw user research, design, and systems development.
 * Coordinated the supply-chain, purchasing, and logistics.
@@ -36,7 +36,7 @@
 * Connected local government, cooperates, and schools by organized social events, talks, and international conferences
 * Directed local community growth as IxDA regional representative.
 * Provided mentorship to designers and communities
-* Active promoter of Interaction Design and Design thinking
+* Active promoter of Interaction Design and Design thinking  
 
 **Wildmind Corp. | User Experience Manager** 2012.03 – 2014.12
 
@@ -75,11 +75,14 @@
 ## Education
 
 **Center for Creative Leadership**
-Leadership Development Program (LDP)
+
+*Leadership Development Program (LDP)*
 
 **Yuan-Ze University, Information Communication**
-MI in Human Computer Interaction & Digital Media Design
+
+*MI in Human Computer Interaction & Digital Media Design*
 
 **Fu-Jen Catholic University, Information Management**
-B.B.A. in Information Management
+
+*B.B.A. in Information Management*
 
