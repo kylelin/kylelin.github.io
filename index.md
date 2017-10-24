@@ -1,5 +1,5 @@
 ## Qualification
----
+
 * 10 yrs experience in both online/offline experience design and Front-End development.
 * Directing digital discipline of world-leading innovation consultancy.
 * Cultivating innovation capabilities and transformations for 500 fortune companies.
@@ -9,8 +9,10 @@
 * Well-known keynote and workshop speaker of UxPA, IxDA, IxDC and other high-profile conferences.
 * Qualified team builder/recruiter with strong talents connections
 
-## Experience
 ---
+
+## Experience
+
 **Continuum | Senior Manager, User Experience Design** 2015.8 - Present
 * Coaching innovation and design thinking method for all level clients
 * Directed digital discipline operation, talent hiring process and employee experience in studio.
@@ -37,12 +39,12 @@
 * Active promoter of Interaction Design and Design thinking
 
 **FanXin | Cofounder** 2012.03 – 2014.12
-__Product Director__
+~~Product Director~~
 * Coordinated business, design, marketing and develop teams
 * Launched 70+ cooperation projects with local TV station and global TV network
 * Directed TV O2O interaction features development on FanXin Social Interactive TV APP
 * Planned and executed Product milestone based on business and marketing process.
-__User Experience Director__
+~~User Experience Director~~
 * Developed UX strategy development and UI design pattern knowledge base
 * Directed user research and product experience design
 * Supervised service experience for customer
@@ -65,8 +67,10 @@ __IOS Dev Lead__
 **Stamina Studio | Cofounder & Design Engineer** Feb. 2009 – Feb.2011
 * Delivered web design and graphic design for client
 
-## Education
 ---
+
+## Education
+
 **Center for Creative Leadership**
 Leadership Development Program (LDP)
 
