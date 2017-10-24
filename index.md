@@ -21,7 +21,6 @@
 * Managed Car insurance omnichannel strategy and retail store design for leading property-insurance brand
 * Managed Connected Car dev roadmap for leading navigation brand.
 * Supported APP design and strategy for U-car
-* Supported smart home innovation for leading home solution brand
 * Supervised food safety innovation project for World design capital.
 * Supervised retail banking experience strategy for private bank
 * Supervised mobile platform design for hair beauty brand
