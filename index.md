@@ -1,5 +1,5 @@
 ## Qualification
-
+---
 * 10 yrs experience in both online/offline experience design and Front-End development.
 * Directing digital discipline of world-leading innovation consultancy.
 * Cultivating innovation capabilities and transformations for 500 fortune companies.
@@ -10,6 +10,7 @@
 * Qualified team builder/recruiter with strong talents connections
 
 ## Experience
+---
 **Continuum | Senior Manager, User Experience Design** 2015.8 - Present
 * Coaching innovation and design thinking method for all level clients
 * Directed digital discipline operation, talent hiring process and employee experience in studio.
@@ -18,10 +19,10 @@
 * Managed Car insurance omnichannel strategy and retail store design for leading property-insurance brand
 * Managed Connected Car dev roadmap for leading navigation brand.
 * Supported APP design and strategy for U-car
-•	Supported smart home innovation for leading home solution brand
-•	Supervised food safety innovation project for World design capital.
-•	Supervised retail banking experience strategy for private bank
-•	Supervised mobile platform design for hair beauty brand
+* Supported smart home innovation for leading home solution brand
+* Supervised food safety innovation project for World design capital.
+* Supervised retail banking experience strategy for private bank
+* Supervised mobile platform design for hair beauty brand
 
 
 
