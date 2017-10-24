@@ -38,7 +38,7 @@
 * Provided mentorship to designers and communities
 * Active promoter of Interaction Design and Design thinking  
 
-**FanXin | Co Founder** 2012.03 – 2014.12
+**FanXin | Co Founder** 2012.03 – 2014.12<br/>
 *Product Director*
 * Coordinated business, design, marketing and develop teams
 * Launched 70+ cooperation projects with local TV station and global TV network
