@@ -85,16 +85,6 @@
 
 ---
 
-## Bio
-
-'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a senior manager of user experience design, Kyle leads Continuum’s digital discipline. He believes strongly that effective innovation should come from artfully balancing the needs and interests of both business and customers through human-centered design. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In world-leading innovation consultancy, Kyle has supported many impactful transformations projects in large organizations by coached user research process and innovation leadership. He worked side by side with clients to draw the growth roadmap, completed executable service strategy and directed omnichannel experience. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prior to joining Continuum, Kyle has led impactful projects in a wide range of industries, from Omni-channel solutions to non-profit initiatives. He was the product lead of an e-commerce startup and oversaw its supply chain management, digital experience design, and online sales. He also co-founded FanXin, an interactive TV app that creates social content consumption experiences for its users and gets millions fund. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kyle is also a passionate educator who is often invited by global or regionel conference to serve as a keynote/workshop speaker or awards judge. In spare time, he is the co-founder and president of IxDA Taiwan, one of the biggest local design community that facilitates dialogue between designers and corporations globally.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In his ten years career journey, he considers that the greatest merit of technology - always being flexible and ready to be morphed and honed according to its user's many-faceted needs. And now, he is prepared for next fabulous challenges.'
-
----
-
 ## Contact
 
 >[Kyle@ixda.org.tw](Kyle@ixda.org.tw)<br/>
