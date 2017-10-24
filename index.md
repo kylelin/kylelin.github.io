@@ -38,25 +38,6 @@
 * Provided mentorship to designers and communities
 * Active promoter of Interaction Design and Design thinking  
 
-**Wildmind Corp. | User Experience Manager** 2012.03 – 2014.12
-
-*Product Director*
-* Coordinated business, design, marketing and develop teams
-* Launched 70+ cooperation projects with local TV station and global TV network
-* Directed TV O2O interaction features development on FanXin Social Interactive TV APP
-* Planned and executed Product milestone based on business and marketing process.
-
-*User Experience Director*
-* Developed UX strategy development and UI design pattern knowledge base
-* Directed user research and product experience design
-* Supervised service experience for customer
-* Managed experience design team
-
-*IOS Dev Lead*
-* Implemented Fanxin iOS App 1.0
-* Built dev team collaborative framework and API documents
-* Mentored junior iOS developers
-
 **Wildmind Corp. | User Experience Manager** 2011.03 – 2012.02
 * Recruited and coached UX division and Brand Design division
 * Oversaw the UX strategy and digital marketing strategy
@@ -74,15 +55,12 @@
 
 ## Education
 
-**Center for Creative Leadership**
-
+**Center for Creative Leadership**<br\>
 *Leadership Development Program (LDP)*
 
-**Yuan-Ze University, Information Communication**
-
+**Yuan-Ze University, Information Communication**<br\>
 *MI in Human Computer Interaction & Digital Media Design*
 
-**Fu-Jen Catholic University, Information Management**
-
+**Fu-Jen Catholic University, Information Management**<br\>
 *B.B.A. in Information Management*
 
