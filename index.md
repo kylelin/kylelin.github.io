@@ -1,8 +1,14 @@
-## Hello world
+## QUALIFICATIONS
 
-You can use the [editor on GitHub](https://github.com/kylelin/kylelin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 10 yrs experience in both online/offline experience design and Front-End development.
+- Directing digital discipline of world-leading innovation consultancy.
+- Cultivating innovation capabilities and transformations for 500 fortune companies.
+- Implemented Yimishiji.com. The best organic fresh produce e-commerce website.
+- Founded and established 1000+ designers’ community as leader of Interaction Design Association Taiwan
+- 3 yrs hands-on startup operation experience with business qualifications and million dollars’ fund.
+- Well-known keynote and workshop speaker of UxPA, IxDA, IxDC and other high-profile conferences.
+- Qualified team builder/recruiter with strong talents connections
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
