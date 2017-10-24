@@ -38,7 +38,7 @@
 * Provided mentorship to designers and communities
 * Active promoter of Interaction Design and Design thinking
 
-**FanXin | Cofounder** 2012.03 – 2014.12
+**Wildmind Corp. | User Experience Manager** 2012.03 – 2014.12
 
 *Product Director*
 * Coordinated business, design, marketing and develop teams
@@ -75,14 +75,11 @@
 ## Education
 
 **Center for Creative Leadership**
-
-123
+Leadership Development Program (LDP)
 
 **Yuan-Ze University, Information Communication**
-
-2
+MI in Human Computer Interaction & Digital Media Design
 
 **Fu-Jen Catholic University, Information Management**
-
-1
+B.B.A. in Information Management
 
