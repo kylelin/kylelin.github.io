@@ -8,11 +8,10 @@
 * 3 yrs hands-on startup operation experience with business qualifications and million dollars’ fund.
 * Well-known keynote and workshop speaker of UxPA, IxDA, IxDC and other high-profile conferences.
 * Qualified team builder/recruiter with strong talents connections
-  
-  
+
 ## Experience
 ---
-**ontinuum | Senior Manager, User Experience Design** 2015.8 - Present
+**Continuum | Senior Manager, User Experience Design** 2015.8 - Present
 * Coaching innovation and design thinking method for all level clients
 * Directed digital discipline operation, talent hiring process and employee experience in studio.
 * Delivering education product experience innovation design and marketing strategy for leading preschool education brand.
@@ -31,36 +30,49 @@
 * Coordinated the supply-chain, purchasing, and logistics.
 * Responded for team hiring and office space arrangement.
 
+**Interaction Design Association, Taiwan | President** 2010.10 - Present
+* Connected local government, cooperates, and schools by organized social events, talks, and international conferences
+* Directed local community growth as IxDA regional representative.
+* Provided mentorship to designers and communities
+* Active promoter of Interaction Design and Design thinking
 
+**FanXin | Cofounder** 2012.03 – 2014.12
+__Product Director__
+* Coordinated business, design, marketing and develop teams
+* Launched 70+ cooperation projects with local TV station and global TV network
+* Directed TV O2O interaction features development on FanXin Social Interactive TV APP
+* Planned and executed Product milestone based on business and marketing process.
+__User Experience Director__
+* Developed UX strategy development and UI design pattern knowledge base
+* Directed user research and product experience design
+* Supervised service experience for customer
+* Managed experience design team
+__IOS Dev Lead__
+* Implemented Fanxin iOS App 1.0
+* Built dev team collaborative framework and API documents
+* Mentored junior iOS developers
 
-### Markdown
+**Wildmind Corp. | User Experience Manager** 2011.03 – 2012.02
+* Recruited and coached UX division and Brand Design division
+* Oversaw the UX strategy and digital marketing strategy
+* Co-authored product development with R/D team and S/M team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**AverMedia Inc. | Senior User Interface Designer** 2009.02 – 2011.02
+* Aligned software and hardware innovation project teams.
+* Shaped the fundamental framework of design administration, project management, and cross-disciplinary cooperation for carrying on interactive design project.
+* Completed product development with global dev team.
 
-```markdown
-Syntax highlighted code block
+**Stamina Studio | Cofounder & Design Engineer** Feb. 2009 – Feb.2011
+* Delivered web design and graphic design for client
 
-# Header 1
-## Header 2
-### Header 3
+## Education
+---
+**Center for Creative Leadership**
+Leadership Development Program (LDP)
 
-- Bulleted
-- List
+**Yuan-Ze University, Information Communication**
+MI in Human Computer Interaction & Digital Media Design
 
-1. Numbered
-2. List
+**Fu-Jen Catholic University, Information Management**
+B.B.A. in Information Management
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylelin/kylelin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
