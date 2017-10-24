@@ -9,9 +9,10 @@
 * Well-known keynote and workshop speaker of UxPA, IxDA, IxDC and other high-profile conferences.
 * Qualified team builder/recruiter with strong talents connections
 
+
 ## Experience
 ---
-**Continuum | Senior Manager, User Experience Design** 2015.8 - Present
+####Continuum | Senior Manager, User Experience Design#### 2015.8 - Present
 * Coaching innovation and design thinking method for all level clients
 * Directed digital discipline operation, talent hiring process and employee experience in studio.
 * Delivering education product experience innovation design and marketing strategy for leading preschool education brand.
@@ -23,6 +24,12 @@
 * Supervised food safety innovation project for World design capital.
 * Supervised retail banking experience strategy for private bank
 * Supervised mobile platform design for hair beauty brand
+
+BitsXBites / Yimishiji.com | Product Lead 2015.01-2015.08
+•	Planned Yimishiji.com from 0 to 1 with founding team members.
+•	Oversaw user research, design, and systems development.
+•	Coordinated the supply-chain, purchasing, and logistics.
+•	Responded for team hiring and office space arrangement.
 
 
 
